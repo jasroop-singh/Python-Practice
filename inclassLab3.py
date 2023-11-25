@@ -103,6 +103,7 @@ def tensName(number):
     return ""
 
 
+main2()
 
 
 # Program 3
